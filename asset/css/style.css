@@ -232,7 +232,15 @@ h1, h2, h3, h4, h5, h6 {
   letter-spacing: 1px;
   border-bottom: 3px solid orangered;
 }
+
+@media (min-width: 768px) {
+  .about {
+    margin: 0 10%;
+  }
+}
+
 @media (max-width: 768px) {
+
   #hero h1 {
     font-size: 40px;
     line-height: 36px;
