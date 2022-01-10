@@ -204,6 +204,8 @@
   padding: 12px 20px 20px;
   background-color: #252936;
   position: relative;
+  color: #808191;
+  text-align: right !important;
 }
 .video-by {
   transition: 0.3s;
